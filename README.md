@@ -16,3 +16,7 @@ This web app displays top 50 cryptos based on market cap with trading view chart
 - search option 
 - dark mode toggle button
 - watchlist for real-time chart
+
+### Screenshots
+- <a href='https://www.awesomescreenshot.com/image/9367378?key=29bf2efe844e65ec42a4098d095899fe'>List view </a>
+- <a href= 'https://www.awesomescreenshot.com/image/9367386?key=8a12f0b85c0816488f5d733ed0a35374'> Grid view </a>
