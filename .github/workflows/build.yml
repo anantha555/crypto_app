@@ -16,4 +16,4 @@ jobs:
       - name: Run IL-CLI
         run: |
           cd ${{github.workspace}}
-          docker run -e IMAGING_CLOUD_API_KEY=${{secrets.IMAGING_CLOUD_API_KEY}} -v $(pwd):/home/carl/extras/source castimaging/carl-java-cli:alpha 'demo app 45'
+          docker run -e IMAGING_CLOUD_API_KEY=${{secrets.IMAGING_CLOUD_API_KEY}} -v $(pwd):/home/carl/extras/source castimaging/carl-java-cli:alpha "demo4"
